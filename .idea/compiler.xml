@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tasklist.Tasklist-task-build-classes-kotlin.main" target="8" />
+      <module name="Tasklist.Tasklist-task-build-reports-tests.main" target="8" />
+      <module name="Tasklist.Tasklist-task-build-test-results.main" target="8" />
+      <module name="Tasklist.Tasklist-task-build-tmp.main" target="8" />
+      <module name="Tasklist.Tasklist-task.main" target="8" />
+      <module name="Tasklist.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
